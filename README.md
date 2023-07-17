@@ -1,1 +1,1 @@
-# Duplicate_Checker_and_Sequence_Generator
+# Duplicate_Checker_and_Sequence_Generator ( C language)
