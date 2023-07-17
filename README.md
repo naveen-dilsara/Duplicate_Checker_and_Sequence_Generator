@@ -5,7 +5,9 @@
 
 Develop C or Java source codes for the following applications.
 
-##Question 1 
+
+<h3>Question 1 </h3>
+
 
 You are given a string S containing only lowercase letters and an integer K. In one operation you 
 can change any character of the string to '#' character.
@@ -26,7 +28,9 @@ Sample Input  |   Sample Output
 ababc         |    2
 
 
-##Question 2
+
+<h3>Question 2 </h3>
+
 
 You are given two non-decreasing sequences A=(a1,a2,...,an) and B=(b1,b2,...,bm).
 You can choose any two indices i and j, and then swap ai and bj.
@@ -48,8 +52,4 @@ Sample Input    |     Sample Output
 3   3           |
 -1 0 2          |      4
 0 1 2           |
-
-3  3            |
-0 0 1           |      2
-0 1 1           |      
 
